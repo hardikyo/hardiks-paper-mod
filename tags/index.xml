@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on PaperMod</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on PaperMod</description>
+    <title>Tags on Hardik&#39;s GameHub</title>
+    <link>https://hardikyo.github.io/hardiks-paper-mod/tags/</link>
+    <description>Recent content in Tags on Hardik&#39;s GameHub</description>
     <image>
-      <url>http://example.org/papermod-cover.png</url>
-      <link>http://example.org/papermod-cover.png</link>
+      <url>https://hardikyo.github.io/hardiks-paper-mod/papermod-cover.png</url>
+      <link>https://hardikyo.github.io/hardiks-paper-mod/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hardikyo.github.io/hardiks-paper-mod/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All Games</title>
-      <link>http://example.org/tags/all-games/</link>
+      <link>https://hardikyo.github.io/hardiks-paper-mod/tags/all-games/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/all-games/</guid>
+      <guid>https://hardikyo.github.io/hardiks-paper-mod/tags/all-games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PaperMod</title>
-      <link>http://example.org/tags/papermod/</link>
+      <link>https://hardikyo.github.io/hardiks-paper-mod/tags/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/papermod/</guid>
+      <guid>https://hardikyo.github.io/hardiks-paper-mod/tags/papermod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>http://example.org/tags/privacy/</link>
+      <link>https://hardikyo.github.io/hardiks-paper-mod/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/privacy/</guid>
+      <guid>https://hardikyo.github.io/hardiks-paper-mod/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://example.org/tags/shortcodes/</link>
+      <link>https://hardikyo.github.io/hardiks-paper-mod/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/shortcodes/</guid>
+      <guid>https://hardikyo.github.io/hardiks-paper-mod/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://example.org/tags/markdown/</link>
+      <link>https://hardikyo.github.io/hardiks-paper-mod/tags/markdown/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/markdown/</guid>
+      <guid>https://hardikyo.github.io/hardiks-paper-mod/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>http://example.org/tags/text/</link>
+      <link>https://hardikyo.github.io/hardiks-paper-mod/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/text/</guid>
+      <guid>https://hardikyo.github.io/hardiks-paper-mod/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grand Theft Auto</title>
-      <link>http://example.org/tags/grand-theft-auto/</link>
+      <link>https://hardikyo.github.io/hardiks-paper-mod/tags/grand-theft-auto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/grand-theft-auto/</guid>
+      <guid>https://hardikyo.github.io/hardiks-paper-mod/tags/grand-theft-auto/</guid>
       <description></description>
     </item>
     

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PaperMod</title>
-    <link>http://example.org/tags/papermod/</link>
-    <description>Recent content on PaperMod</description>
+    <title>PaperMod on Hardik&#39;s GameHub</title>
+    <link>https://hardikyo.github.io/hardiks-paper-mod/tags/papermod/</link>
+    <description>Recent content in PaperMod on Hardik&#39;s GameHub</description>
     <image>
-      <url>http://example.org/papermod-cover.png</url>
-      <link>http://example.org/papermod-cover.png</link>
+      <url>https://hardikyo.github.io/hardiks-paper-mod/papermod-cover.png</url>
+      <link>https://hardikyo.github.io/hardiks-paper-mod/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hardikyo.github.io/hardiks-paper-mod/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Features</title>
-      <link>http://example.org/posts/papermod/papermod-features/</link>
+      <link>https://hardikyo.github.io/hardiks-paper-mod/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/papermod/papermod-features/</guid>
+      <guid>https://hardikyo.github.io/hardiks-paper-mod/posts/papermod/papermod-features/</guid>
       <description>Learn About All Features in PaperMod</description>
     </item>
     
