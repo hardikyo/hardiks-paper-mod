@@ -1,5 +1,5 @@
-baseURL: "http://example.org/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: PaperMod
+baseURL: "https://hardikyo.github.io/hardiks-paper-mod/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Hardik's GameHub
 paginate: 5
 theme: papre-Mod
 
